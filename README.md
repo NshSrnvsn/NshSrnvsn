@@ -9,7 +9,7 @@
 
 - 📫 Reach me easiest at **nsh.srnvsn@gmail.com**
   
-- 🚧 If you have some time, please visit [NshSrnvsn](https://nshsrnvsn.github.io) and read y fun excapades.
+- 🚧 If you have some time, please visit [NshSrnvsn](https://nshsrnvsn.github.io) and read my fun excapades.
 
 - ❄️ Winter is the best season
 
