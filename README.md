@@ -1,11 +1,11 @@
 <h1 align="center">Hi 🎀, I'm Anusha</h1>
 
-<h3 align="center">A feisty senior software engineer.</h3>
+<h3 align="center">A feisty engineer.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NshSrnvsn&label=Profile%20views&color=0e75b6&style=flat" alt="nshsrnvsn" /> </p>
 
-- 💻 I have 5 years of work experience working in Oracle as a Senior software Engineer.
+- 💻 I have 5 years (as of today) of work experience working in Oracle as a Senior software Engineer.
 
-- 🎓 I am currently pursuing my masters in Computer Science at Georgia Tech, Atlanta, USA.
+- 🎓 I recently wrapped up my masters in Computer Science at Georgia Tech.
 
 - 📫 Reach me easiest at **nsh.srnvsn@gmail.com**
   
