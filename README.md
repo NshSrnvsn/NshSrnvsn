@@ -5,13 +5,11 @@
 
 - 💻 I work as a Founding AI Engineer at a cute little company in Houston, solving big problems.
 
-- 👵🏻 I have 5 years (as of today) of work experience working in Oracle as a Senior software Engineer.
+- 👵🏻 I have 5 years of experience working in Oracle as a Senior software Engineer.
 
 - 🎓 I recently wrapped up my masters in Computer Science at Georgia Tech.
-
-- 📫 Reach me easiest at nsh.srnvsn@gmail.com
   
-- 🚧 If you have some time, please visit [NshSrnvsn](https://nshsrnvsn.github.io) and read my fun excapades.
+- 🚧 If you have some time, please visit my [website](https://nshsrnvsn.github.io) and read my fun escapades.
 
 - ❄️ Winter is the best season
 
