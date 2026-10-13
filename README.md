@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🎀, I'm Anusha</h1>
 
 <h3 align="center">A feisty engineer.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=NshSrnvsn&label=Profile%20views&color=0e75b6&style=flat" alt="nshsrnvsn" /> </p>
+
 
 - 💻 I work as a Founding AI Engineer at a cute little company in Houston, solving big problems.
 
@@ -21,7 +21,7 @@
 
 <br/>
 <p align="right">
-  <sub><font color="#999999">Last updated: September 14, 2026</font></sub>
+  <sub><font color="#999999">Last updated: October 13, 2026</font></sub>
 </p>
 
 
